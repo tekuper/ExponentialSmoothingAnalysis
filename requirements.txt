@@ -1,3 +1,8 @@
-## Requirements:
-- Python 3.x
-- Libraries: pandas, numpy, matplotlib, scikit-learn, statsmodels
+pandas
+matplotlib
+seaborn
+plotly
+statsmodels
+numpy
+scikit-learn
+torch
